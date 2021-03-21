@@ -1,6 +1,3 @@
-yo script here down
-
-
 local plr = game.Players.LocalPlayer
 local mouse = plr:GetMouse()
  
